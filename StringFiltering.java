@@ -48,7 +48,6 @@ public class StringFiltering {
                         arrayResult.add(str);
                         break;
                     }
-                    System.out.println(result[i] + " ");
                 }
             }
         } catch (PatternSyntaxException pt) {
